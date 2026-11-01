@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "tab-audio@screenshare.app": {
+      "updates": [
+        {
+          "version": "0.4.1",
+          "update_link": "https://raw.githubusercontent.com/goncaloMgomes/screenshare-releases/main/addon/ScreenShare-Tab-Share-0.4.1.xpi",
+          "update_hash": "sha256:9e62d8cb4917969db9f7046484fa13e2bffe0ad30ea235c8541b08bc9e0c1c10",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
